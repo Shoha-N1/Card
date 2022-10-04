@@ -1,0 +1,62 @@
+
+.kop {
+    width: 300px;
+}
+
+.lop  {
+    width: 300px;
+}
+
+.bix {
+    border: 1px solid rgb(172, 166, 166);
+    width: 300px;
+    padding: 15px;
+}
+
+.kil {
+    width: 89px;
+    height: 37px;
+}
+
+
+.dad-box {
+    display: flex;
+}
+
+.second-box {
+    margin-left: 80px;
+}
+
+.first-box {
+    margin-top: 65px;
+}
+
+.alert {
+    width: 100vh;
+}
+
+.card-box {
+    margin-top: 210px;
+    margin-left: -654px;
+    display: flex;
+}
+
+.card {
+    height: 451px;
+    border: none;
+    margin-right: 20px;
+}
+
+.star {
+    border: none;
+    background-color: white;
+}
+
+.ulation {
+    border: 1px solid blue;
+}
+
+.navbar-pagination {
+    margin-top: 739px;
+    margin-left: -537px;
+}
